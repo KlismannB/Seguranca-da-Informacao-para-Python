@@ -2,7 +2,7 @@
 
 * [Clientes e Servidor](http://github.com/KlismannB/Seguranca-da-Informacao-para-Python/tree/main/Clientes%20e%20Servidor/)
 * [Gerador de Senhas](http://github.com/KlismannB/Seguranca-da-Informacao-para-Python/tree/main/Gerador%20de%20Senhas/)
-* [Gerador de Wordlists](http://github.com/KlismannB/Seguranca-da-Informacao-para-Python/tree/main/Gerador%20de@20Wordlists)
+* [Gerador de Wordlists](https://github.com/KlismannB/Seguranca-da-Informacao-para-Python/tree/main/Gerador%20de%20Wordlists)
 * [Hashes](http://github.com/KlismannB/Seguranca-da-Informacao-para-Python/tree/main/Hashes/)
 * [Interface para abrir arquivos](http://github.com/KlismannB/Seguranca-da-Informacao-para-Python/tree/main/Interface%20para%20abrir%20arquivos/)
 * [Ocultador de Arquivos para Windows](http://github.com/KlismannB/Seguranca-da-Informacao-para-Python/tree/main/Ocultador%20de%20Arquivos%20para%20Windows/)

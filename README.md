@@ -6,7 +6,7 @@
 * [Hashes](http://github.com/KlismannB/Seguranca-da-Informacao-para-Python/tree/main/Hashes/)
 * [Interface para abrir arquivos](http://github.com/KlismannB/Seguranca-da-Informacao-para-Python/tree/main/Interface%20para%20abrir%20arquivos/)
 * [Ocultador de Arquivos para Windows](http://github.com/KlismannB/Seguranca-da-Informacao-para-Python/tree/main/Ocultador%20de%20Arquivos%20para%20Windows/)
-* [Ping](http://github.com/KlismannB/Seguranca-da-Informacao-com-Python/tree/main/Ping/)
+* [Ping](http://github.com/KlismannB/Seguranca-da-Informacao-com-Python/tree/main/Ping)
 * [PortScanner](http://github.com/KlismannB/Seguranca-da-Informacao-para-Python/tree/main/PortScanner/)
 * [Threads e IPs](http://github.com/KlismannB/Seguranca-da-Informacao-para-Python/tree/main/Threads%20e%20IPs/)
 * [Validador de números de telefone](http://github.com/KlismannB/Seguranca-da-Informacao-para-Python/tree/main/Validador%20de%20numeros%20de%20telefone/)
